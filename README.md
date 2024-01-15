@@ -1,8 +1,10 @@
+
 ## Git learn
  - How to commit
  - How to checkout branch
  - How to merge branch
  - And push and pull
+ - How to add files to index
 
 ## Changes
 
